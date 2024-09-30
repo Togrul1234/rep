@@ -1,3 +1,7 @@
+
+
+
+
 salam Menim adim Togruldur
 men Naxcivanliyam
 
@@ -6,3 +10,21 @@ Variable naming follows specific rules: names can include letters, numbers, doll
 Use the let keyword to declare a variable called character.
 
 Note: It is common practice to end statements in JavaScript with a semicolon. ;
+hjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+huuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuug
